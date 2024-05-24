@@ -1,0 +1,135 @@
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\appsettings.Development.json
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\appsettings.json
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.exe
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.deps.json
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.runtimeconfig.json
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.pdb
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Humanizer.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.csproj.AssemblyReference.cache
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.AssemblyInfoInputs.cache
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.AssemblyInfo.cs
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.csproj.CoreCompileInputs.cache
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.MyWebApiApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MyWebApiApp.props
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApiApp.props
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyWebApiApp.props
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\scopedcss\bundle\MyWebApiApp.styles.css
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.csproj.CopyComplete
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\refint\MyWebApiApp.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.pdb
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.genruntimeconfig.cache
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\obj\Debug\net6.0\ref\MyWebApiApp.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DOT NET\freecousre-webapi-net5-08_JWT_RefreshToken\freecousre-webapi-net5-08_JWT_RefreshToken\MyWebApiApp\MyWebApiApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.exe
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.deps.json
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.runtimeconfig.json
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\MyWebApiApp.pdb
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\scopedcss\bundle\MyWebApiApp.styles.css
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.csproj.CopyComplete
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\refint\MyWebApiApp.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.pdb
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\MyWebApiApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\obj\Debug\net6.0\ref\MyWebApiApp.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\NETSERVER\AndroidAppWithDotNetServer-master\AndroidAppWithDotNetServer-master\MyWebApiApp\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
